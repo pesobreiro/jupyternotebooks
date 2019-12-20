@@ -5,5 +5,3 @@
 2. Another analysis
 
 3. Another...
-
-4. Outro exemplo

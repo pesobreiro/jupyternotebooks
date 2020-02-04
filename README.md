@@ -1,5 +1,5 @@
-# Utilização
-[![Binder](https://mybinder.org/badge_logo.svg)]https://mybinder.org/v2/gh/pesobreiro/jupyternotebooks/master?urlpath=voila%2Frender%2F3.salaExercicio_interativo.ipynb)
+# Exemplo 
+Utilização sala de exercicio[![Binder](https://mybinder.org/badge_logo.svg)]https://mybinder.org/v2/gh/pesobreiro/jupyternotebooks/master?urlpath=voila/render/analysis/3.salaExercicio_interativo.ipynb)
 
 # Analysis using jupyter notebooks
 

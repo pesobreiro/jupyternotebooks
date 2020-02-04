@@ -1,5 +1,5 @@
 # Exemplo 
-Utilização sala de exercicio[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pesobreiro/jupyternotebooks/master?urlpath=voila/render/analysis/1.salaExercicio_analise.ipynb)
+Utilização sala de exercicio com Voila [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pesobreiro/jupyternotebooks/master?urlpath=voila/render/analysis/1.salaExercicio_analise.ipynb)
 
 https://mybinder.org/v2/gh/pesobreiro/jupyternotebooks/master?urlpath=voila%2Frender%2F3.salaExercicio_interativo.ipynb
 

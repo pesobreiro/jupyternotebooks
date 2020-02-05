@@ -5,4 +5,4 @@ pandas
 seaborn
 xlrd
 plotly
-lifelines=0.21.0
+lifelines==0.21.0

@@ -1,7 +1,7 @@
 # Análises
 Utilização sala de exercicio [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pesobreiro/jupyternotebooks/master?urlpath=voila/render/analysis/1.salaExercicio_analise.ipynb)
 
-# Estudos desenvolvidos
+# Survival Analysis 
 1. Análise da prática desportiva Jupyter Lab [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pesobreiro/jupyternotebooks/master?filepath=analysis/6.survivalAnalysis.ipynb)
 2. Voilá [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pesobreiro/jupyternotebooks/master?urlpath=voila/render/analysis/6.survivalAnalysis.ipynb)
 

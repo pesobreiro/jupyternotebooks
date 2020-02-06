@@ -15,7 +15,7 @@
 # Análises
 Utilização sala de exercicio [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pesobreiro/jupyternotebooks/master?urlpath=voila/render/analysis/1.salaExercicio_analise.ipynb)
 
-Utilização aulas de grupo [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pesobreiro/jupyternotebooks/master?urlpath=voila/render/analysis/2.aulasGrupo_analise.ipynb)
+Utilização aulas de grupo __Jupyter Lab__ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pesobreiro/jupyternotebooks/master?filepath=analysis/2.aulasGrupo_analise.ipynb) __Voila__ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pesobreiro/jupyternotebooks/master?urlpath=voila/render/analysis/2.aulasGrupo_analise.ipynb)
 
 # Tratamento de dados
 1. Health club usage using boxplots [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pesobreiro/jupyternotebooks/master?filepath=analysis/1.tratamento.ipynb)

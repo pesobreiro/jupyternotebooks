@@ -11,4 +11,5 @@ sklearn
 graphviz
 pydotplus
 tabulate
-fbprophet ==0.4
+holidays==0.9.12
+fbprophet

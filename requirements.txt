@@ -11,4 +11,4 @@ sklearn
 graphviz
 pydotplus
 tabulate
-fbprophet
+fbprophet ==0.4

@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --template=material --enable_nbextensions=True analysis/2.aulasGrupo_analise.ipynb
+web: voila --port=$PORT --no-browser --template=material --enable_nbextensions=True notebooks/2.aulasGrupo_analise.ipynb

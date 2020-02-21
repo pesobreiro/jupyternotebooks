@@ -12,4 +12,5 @@ graphviz
 pydotplus
 tabulate
 holidays==0.9.12
-fbprophet
+bqplot
+#fbprophet

@@ -17,7 +17,7 @@ Utilização sala de exercicio [![Binder](https://mybinder.org/badge_logo.svg)](
 
 Utilização aulas de grupo __Jupyter Lab__ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pesobreiro/jupyternotebooks/master?filepath=analysis/2.aulasGrupo_analise.ipynb) __Voila__ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pesobreiro/jupyternotebooks/master?urlpath=voila/render/analysis/2.aulasGrupo_analise.ipynb)
 
-Análise Covid-19 __Jupyter Lab__ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pesobreiro/jupyternotebooks/master?filepath=analysis/analysis/Covid-19.ipynb) __Voila__ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pesobreiro/jupyternotebooks/master?urlpath=voila/render/analysis/Covid-19.ipynb)
+Análise Covid-19 __Jupyter Lab__ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pesobreiro/jupyternotebooks/master?filepath=analysis/Covid-19.ipynb) __Voila__ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pesobreiro/jupyternotebooks/master?urlpath=voila/render/analysis/Covid-19.ipynb)
 
 # Tratamento de dados
 1. Health club usage using boxplots [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pesobreiro/jupyternotebooks/master?filepath=analysis/1.tratamento.ipynb)

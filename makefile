@@ -3,7 +3,7 @@ git:
 	#cd ../covid-19;git reset --hard; git pull;
 	#rm ../covid-19/csse_covid_19_data/csse_covid_19_daily_reports/bigfile.csv
 	#cd ../covid-19/csse_covid_19_data/csse_covid_19_daily_reports; awk '(NR == 1) || (FNR > 1)' *.csv > bigfile.csv
-	cp -p "`ls -dtr ../covid_pt/datasets/*covid_prt.csv | tail -1`" dados/covid_pt.csv
+	cp -p "`ls -dtr ../covid_pt/datasets/*covid_prt.csv | head -1`" dados/covid_pt.csv
 	#cp -p "`ls -dtr ../covid_pt/datasets/02_apr_2020_covid_prt.csv | tail -1`" dados/covid_pt.csv
 	#cp -p "`ls -dtr ../covid-19/csse_covid_19_data/csse_covid_19_daily_reports/*.csv | tail -1`" dados/covid.csv
 	#apaga primeira linha

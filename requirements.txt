@@ -6,7 +6,7 @@ seaborn
 xlrd
 bokeh
 plotly
-lifelines==0.21.0
+lifelines
 sklearn
 graphviz
 pydotplus

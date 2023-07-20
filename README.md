@@ -22,6 +22,5 @@ Análise Covid-19 __Jupyter Lab__ [![Binder](https://mybinder.org/badge_logo.svg
 # Tratamento de dados
 1. Health club usage using boxplots [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pesobreiro/jupyternotebooks/master?filepath=analysis/1.tratamento.ipynb)
 
-
 # Voila demos
 Check this: https://github.com/maartenbreddels/voila-demo

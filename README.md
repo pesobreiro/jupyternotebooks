@@ -1,7 +1,5 @@
 # Survival Analysis 
 
-Teste
-
 1. Análise da prática desportiva nadadores __Jupyter Lab__ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pesobreiro/jupyternotebooks/master?filepath=analysis/survivalAnalysisSwimmers.ipynb) __Voilá__ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pesobreiro/jupyternotebooks/master?urlpath=voila/render/analysis/survivalAnalysisSwimmers.ipynb)
 2. Análise da prática desportiva atletas federados andebol __Jupyter Lab__ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pesobreiro/jupyternotebooks/master?filepath=analysis/survivalAnalysisHandballPlayers.ipynb) __Voilá__ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pesobreiro/jupyternotebooks/master?urlpath=voila/render/analysis/survivalAnalysisHandballPlayers.ipynb)
 
